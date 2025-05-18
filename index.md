@@ -1,5 +1,5 @@
 # 
-![Image of Ai]([https://upload.wikimedia.org/wikipedia/commons/c/c1/Open_ai.jpg])
+![Image of Ai](https://upload.wikimedia.org/wikipedia/commons/c/c1/Open_ai.jpg)
 ``` javascript
 var myVar = "Hello, world by adithyan";
 ```
