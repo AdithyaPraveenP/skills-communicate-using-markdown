@@ -3,3 +3,7 @@
 ``` javascript
 var myVar = "Hello, world by adithyan";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio adithya Praveen P
+- [ ] Check engagement
