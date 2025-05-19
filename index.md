@@ -15,6 +15,6 @@ var myVar = "Hello, world by adithyan";
 ```
 ![Image of Ai](https://upload.wikimedia.org/wikipedia/commons/c/c1/Open_ai.jpg)
 
-- [ ] Turn on GitHub Pages
+- [x] Turn on GitHub Pages
 - [ ] Outline my portfolio adithya Praveen P
 - [ ] Check engagement
